@@ -6,7 +6,6 @@ Build one or more forecasting models to determine the demand for a particular pr
 Project Organization
 ------------
     ├── LICENSE
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`
     ├── README.md          <- The top-level README for developers using this project.
     ├── data
     │   ├── external       <- Data from third party sources.
